@@ -1,0 +1,11 @@
+08-29-2014 12:04:11 Attempting to create license chassis 172.16.1.247
+08-29-2014 12:04:11 Requesting licenses for chassis 172.16.1.247
+08-29-2014 12:04:13 Attempting to create license chassis 172.16.1.247
+08-29-2014 12:04:14 Requesting licenses for chassis 172.16.1.247
+08-29-2014 12:04:41 TCLChassis::add()  GetChain()->Get( sIPAddr ) == NULL <already added>
+08-29-2014 12:04:41 Attempting to create license chassis 172.16.1.247
+08-29-2014 12:04:42 Requesting licenses for chassis 172.16.1.247
+08-29-2014 12:14:30 Attempting to create license chassis 172.16.1.247
+08-29-2014 12:14:30 Requesting licenses for chassis 172.16.1.247
+08-29-2014 12:14:32 Attempting to create license chassis 172.16.1.247
+08-29-2014 12:14:32 Requesting licenses for chassis 172.16.1.247
